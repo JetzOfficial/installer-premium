@@ -38,8 +38,8 @@ CYAN='\033[0;36m' # Reset warna teks ke default
 clear
 echo -e "\033[0m"
 echo -e "${RED}𝗢𝗪𝗡𝗘𝗥${RESET}${BLUE}𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥${RESET}"
-echo -e "\033[32mWHATSAPP  : 79105052657\033[0m"
-echo -e "\033[31mYOUTUBE : LeXcZxMoDz\033[0m"
+echo -e "\033[32mWHATSAPP  : wa.me/6285722271832\033[0m"
+echo -e "\033[31mTELEGRAM : t.me/JetzOffc\033[0m"
 echo ""
 # Tambahkan bagian lain dari skrip Anda di sini jika diperlukan
 # Fungsi untuk menampilkan animasi loading
@@ -178,7 +178,7 @@ sudo apt install -y nodejs npm
 echo -e "${BLUE} JIKA INSTALL NPM ERROR TETAP AKAN WORK, LANJUTKAN SAJA"
 npm i -g yarn
 
-REPO_URL="https://github.com/LeXcZxMoDz9/kontol"
+REPO_URL="https://github.com/JetzOfficial/kontol"
 TEMP_DIR="kontol"
 
 cd /var/www && git clone "$REPO_URL"
@@ -269,7 +269,7 @@ fi
 sudo apt update
 curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash - 
 
-REPO_URL="https://github.com/LeXcZxMoDz9/kontol"
+REPO_URL="https://github.com/JetzOfficial/kontol"
 TEMP_DIR="kontol"
 
 cd /var/www && git clone "$REPO_URL"
@@ -366,7 +366,7 @@ echo -e "${GREEN}Installing ${YELLOW}sudo${GREEN} if not installed${RESET}"
         GITHUB_TOKEN="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"
 
         # Clone repositori menggunakan token
-        REPO_URL="https://github.com/LeXcZxMoDz9/kontol"
+        REPO_URL="https://github.com/JetzOfficial/kontol"
         TEMP_DIR="kontol"
 
         # Mengkloning repositori
@@ -408,7 +408,7 @@ echo -e "${BLUE} KETIK yes UNTUK MELANJUTKAN${RESET}"
         GITHUB_TOKEN="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"
 
         # Clone repositori menggunakan token
-        REPO_URL="https://github.com/LeXcZxMoDz9/kontol"
+        REPO_URL="https://github.com/JetzOfficial/kontol"
         TEMP_DIR="kontol"
 
         # Mengkloning repositori
@@ -438,7 +438,7 @@ if [ ! -f "$BLUEPRINT_FILE" ]; then
 fi
 
     # Clone repositori menggunakan token
-    REPO_URL="https://github.com/LeXcZxMoDz9/kontol"
+    REPO_URL="https://github.com/JetzOfficial/kontol"
     TEMP_DIR="kontol"
 
     # Mengkloning repositori
@@ -457,7 +457,7 @@ if [ ! -f "$BLUEPRINT_FILE" ]; then
 fi
 
     # Clone repositori menggunakan token
-    REPO_URL="https://github.com/LeXcZxMoDz9/kontol"
+    REPO_URL="https://github.com/JetzOfficial/kontol"
     TEMP_DIR="kontol"
 
     # Mengkloning repositori
@@ -478,7 +478,7 @@ fi
 ;;
      7)
 # Default URL gambar
-DEFAULT_URL="https://telegra.ph/file/35d23db684fd1d88556ee.jpg"
+DEFAULT_URL="https://l.top4top.io/p_3296xa67u1.jpg"
 
 # Meminta input URL gambar dari pengguna
 read -p "Masukkan URL gambar (tekan Enter untuk menggunakan URL default): " USER_URL
@@ -640,7 +640,7 @@ fi
  ;;
     5)
         # Clone repositori menggunakan token
-        REPO_URL="https://github.com/LeXcZxMoDz9/kontol"
+        REPO_URL="https://github.com/JetzOfficial/kontol"
         TEMP_DIR="kontol"
 
         # Mengkloning repositori
@@ -685,7 +685,7 @@ if [ ! -f "$BLUEPRINT_FILE" ]; then
     exit 1
 fi
 # Clone repositori menggunakan token
-REPO_URL="https://github.com/LeXcZxMoDz9/kontol"
+REPO_URL="https://github.com/JetzOfficial/kontol"
 TEMP_DIR="kontol"
 
 # Mengkloning repositori
