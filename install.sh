@@ -4,8 +4,8 @@ set -e
 
 export GITHUB_SOURCE="v1.1.0"
 export SCRIPT_RELEASE="v1.1.0"
-export GITHUB_BASE_URL="https://raw.githubusercontent.com/LeXcZxMoDz9/kontol"
-export LEXCZ_MODZ="https://github.com/LeXcZxMoDz9/kontol"
+export GITHUB_BASE_URL="https://raw.githubusercontent.com/JetzOfficial/kontol"
+export JETZ_OFFC="https://github.com/JetzOfficial/kontol"
 
 LOG_PATH="/var/log/pterodactyl-installer.log"
 
@@ -19,7 +19,7 @@ fi
 # Fungsi untuk mengunduh lib.sh
 update_lib_source() {
   echo "* Downloading lib.sh..."
-  if ! curl -sSL "$LEXCZ_MODZ/lib/lib.sh" -o /tmp/lib.sh; then
+  if ! curl -sSL "$JETZ_OFFC/lib/lib.sh" -o /tmp/lib.sh; then
     echo "Failed to download lib.sh. Please check the URL or your internet connection."
     exit 1
   fi
