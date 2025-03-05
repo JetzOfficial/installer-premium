@@ -363,7 +363,7 @@ echo -e "${GREEN}Installing ${YELLOW}sudo${GREEN} if not installed${RESET}"
 
     1)
         # Masukkan token GitHub langsung di sini
-        GITHUB_TOKEN="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"
+        GITHUB_TOKEN="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"
 
         # Clone repositori menggunakan token
         REPO_URL="https://github.com/JetzOfficial/kontol"
